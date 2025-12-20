@@ -10,3 +10,5 @@ User can create an Avatar for themself
 
 User can send gift to friends
 
+User can also send location to their friends
+
