@@ -2,3 +2,8 @@ Get User Data..
     |
     |
 Processing Data for next phase 
+
+    |
+    |
+Adding feature 
+User can create an Avatar for themself
